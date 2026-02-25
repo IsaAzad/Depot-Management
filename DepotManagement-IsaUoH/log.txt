@@ -1,0 +1,6 @@
+2026-02-25 22:05:37 - EVENT: Parcel data loaded from file: Parcels.csv
+2026-02-25 22:05:37 - EVENT: Customer data loaded from file: Custs.csv
+2026-02-25 22:05:39 - EVENT: Processed customer: Andrew Robertson, Parcel: X919, Fee: 8.9, Status: Processed
+2026-02-25 22:05:39 - EVENT: Processed customer: Ann Jones, Parcel: X064, Fee: 7.2, Status: Processed
+2026-02-25 22:05:39 - EVENT: Processed customer: Blair Foster, Parcel: X682, Fee: 6.3, Status: Processed
+2026-02-25 22:05:39 - EVENT: Processed customer: Bob Dawson, Parcel: X780, Fee: 2.0, Status: Processed
